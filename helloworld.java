@@ -3,6 +3,5 @@ class helloworld{
 		System.out.println("hello world");
 		System.out.println("changed");
 		System.out.println("saaaaaaa");
-		System.out.println("ssssss");
 	}
 }
